@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isegiiyo.github.io/CFH/sitemap_index.txt
+Sitemap: https://isegiiyo.github.io/gFH/sitemap_index.txt
+Sitemap: https://isegiiyo.github.io/iOp/sitemap_index.txt
+Sitemap: https://isegiiyo.github.io/lZY/sitemap_index.txt
